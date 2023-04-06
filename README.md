@@ -18,4 +18,4 @@ The PCOS prediction model was built using Python and various machine learning li
 The model was optimized using hyperparameter tuning techniques to achieve the best possible performance. The final model was then evaluated on the testing dataset to measure its accuracy, precision, recall, and F1-score.
 
 ## Model Evaluation
-The PCOS prediction model achieved an accuracy of X% on the testing dataset, demonstrating its effectiveness in predicting PCOS. The precision and recall scores were also high, indicating that the model was able to correctly identify individuals with and without PCOS.
+The PCOS prediction model achieved an accuracy of 88% on the testing dataset, demonstrating its effectiveness in predicting PCOS. The precision and recall scores were also high, indicating that the model was able to correctly identify individuals with and without PCOS.
